@@ -34,3 +34,10 @@ Open a terminal (Command Prompt or PowerShell) and run:
 
 ```bash
 py --version
+
+
+### Step 3 — Running the App
+```bash
+py main.py
+
+
